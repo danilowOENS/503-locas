@@ -1,0 +1,34 @@
+/* body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
+
+input{
+    width: 280px;
+    height: 25px;
+    margin: 10px;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+div{
+    
+}
+
+section{
+    background-color: magenta;
+}
